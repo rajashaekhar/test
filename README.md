@@ -1,4 +1,4 @@
-# Fireblocks-MPC
+# Fireblocks-MPC-test
 
 This repository contains Fireblocks' C++ implementation of Secure Multi Party Computation (MPC) algorithms for digital signatures. Covered algorithms include [MPC CMP](https://eprint.iacr.org/2020/492) for ECDSA signatures (online and offline variants), online EdDSA signatures and offline asymmetric EdDSA.
 
